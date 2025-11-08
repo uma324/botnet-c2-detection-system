@@ -15,15 +15,15 @@ This project helped me understand how mathematical models and network analysis c
 # Key Concepts Used
 
 - Graph Theory – modeling communication relationships in a network.
-- 
+  
 - NetworkX – for creating and visualizing network graphs.
-- 
+  
 - Isolation Forest – to detect unusual or suspicious communication patterns.
-- 
+  
 - Data Preprocessing – cleaning and scaling synthetic data for model training.
-- 
+ 
 - Visualization – using Matplotlib to display network anomalies and suspicious nodes.
-- 
+  
 # Category Tools Used
 
 Programming	Python 3
