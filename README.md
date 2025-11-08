@@ -5,13 +5,13 @@ This project is a hands-on implementation of a botnet detection system that anal
 This project helped me understand how mathematical models and network analysis can uncover hidden cyber threats that are not visible through traditional rule-based detection.
 # Objectives
 - Build a graph-based model of network communications.
-- 
+  
 - Detect anomalous nodes using unsupervised learning (Isolation Forest).
-- 
+ 
 - Visualize communication networks and highlight potential botnet activity.
-- 
+  
 - Understand how graph metrics reveal hidden structures of attacks.
-- 
+ 
 # Key Concepts Used
 
 - Graph Theory – modeling communication relationships in a network.
